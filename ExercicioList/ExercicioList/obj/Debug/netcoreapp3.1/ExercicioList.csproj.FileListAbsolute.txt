@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\bin\Debug\netcoreapp3.1\ExercicioList.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioList\ExercicioList\obj\Debug\netcoreapp3.1\ExercicioList.genruntimeconfig.cache

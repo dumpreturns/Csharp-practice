@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\bin\Debug\netcoreapp3.1\MembroEstaticoDois.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MembroEstaticoDois\MembroEstaticoDois\obj\Debug\netcoreapp3.1\MembroEstaticoDois.genruntimeconfig.cache

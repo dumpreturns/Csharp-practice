@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\bin\Debug\netcoreapp3.1\ProblemaProduto.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ProblemaProduto\ProblemaProduto\obj\Debug\netcoreapp3.1\ProblemaProduto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\bin\Debug\netcoreapp3.1\MatrizesII.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\MatrizesII\MatrizesII\obj\Debug\netcoreapp3.1\MatrizesII.genruntimeconfig.cache

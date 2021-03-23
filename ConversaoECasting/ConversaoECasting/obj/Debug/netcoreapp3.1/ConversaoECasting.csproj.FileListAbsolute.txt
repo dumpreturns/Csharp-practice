@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\bin\Debug\netcoreapp3.1\ConversaoECasting.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ConversaoECasting\ConversaoECasting\obj\Debug\netcoreapp3.1\ConversaoECasting.genruntimeconfig.cache

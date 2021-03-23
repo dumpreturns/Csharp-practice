@@ -1,0 +1,13 @@
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.exe
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.deps.json
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.runtimeconfig.json
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.dll
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\bin\Debug\netcoreapp3.1\Encapsulamento Get e Set.pdb
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.dll
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.pdb
+C:\Users\Pedro\source\repos\Encapsulamento Get e Set\Encapsulamento Get e Set\obj\Debug\netcoreapp3.1\Encapsulamento Get e Set.genruntimeconfig.cache

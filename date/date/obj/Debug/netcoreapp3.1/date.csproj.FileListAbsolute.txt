@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\bin\Debug\netcoreapp3.1\date.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\date\date\obj\Debug\netcoreapp3.1\date.genruntimeconfig.cache

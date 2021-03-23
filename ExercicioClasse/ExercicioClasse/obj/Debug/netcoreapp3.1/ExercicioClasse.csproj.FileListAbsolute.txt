@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.exe
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.deps.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\bin\Debug\netcoreapp3.1\ExercicioClasse.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.dll
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.pdb
+C:\Users\Pedro\Desktop\C#\ws-vs2019\ExercicioClasse\ExercicioClasse\obj\Debug\netcoreapp3.1\ExercicioClasse.genruntimeconfig.cache

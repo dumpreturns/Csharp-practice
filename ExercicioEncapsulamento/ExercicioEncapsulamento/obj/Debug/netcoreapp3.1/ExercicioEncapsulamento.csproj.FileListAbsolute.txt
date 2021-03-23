@@ -1,0 +1,13 @@
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.exe
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.deps.json
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.runtimeconfig.json
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.dll
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\netcoreapp3.1\ExercicioEncapsulamento.pdb
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.dll
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.pdb
+C:\Users\Pedro\source\repos\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\netcoreapp3.1\ExercicioEncapsulamento.genruntimeconfig.cache
